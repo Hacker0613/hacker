@@ -197,9 +197,6 @@ body {
 
 @media only screen and (max-width: 600px) {
 
-   .tab-center {
-    width: 50vh;
-  }
   .tabs {
       display: none; /* Hide tabs on mobile */
   }
